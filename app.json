@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "isys",
-    "slug": "isys",
+    "name": "prova_pad",
+    "slug": "prova_pad",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
